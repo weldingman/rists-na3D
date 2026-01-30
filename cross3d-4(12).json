@@ -1,0 +1,109 @@
+{
+  "dims": {
+    "nx": 4,
+    "ny": 4,
+    "nz": 4
+  },
+  "blocks": [],
+  "words": [
+    {
+      "id": 1,
+      "dir": "D",
+      "start": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      },
+      "answer": "INIM",
+      "clue": "Lüh: inimene (kõnekeelne)"
+    },
+    {
+      "id": 2,
+      "dir": "I",
+      "start": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      },
+      "answer": "ISTU",
+      "clue": "Võta iste"
+    },
+    {
+      "id": 3,
+      "dir": "R",
+      "start": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "answer": "UNEN",
+      "clue": "Unenägu (lüh)"
+    },
+    {
+      "id": 4,
+      "dir": "D",
+      "start": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "answer": "SUVI",
+      "clue": "Aasta soe aeg"
+    },
+    {
+      "id": 5,
+      "dir": "R",
+      "start": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "answer": "SILD",
+      "clue": "Üle jõe"
+    },
+    {
+      "id": 6,
+      "dir": "R",
+      "start": {
+        "x": 0,
+        "y": 2,
+        "z": 0
+      },
+      "answer": "VIHM",
+      "clue": "Sajab taevast"
+    },
+    {
+      "id": 7,
+      "dir": "D",
+      "start": {
+        "x": 2,
+        "y": 0,
+        "z": 0
+      },
+      "answer": "LEHT",
+      "clue": "Puu osa"
+    },
+    {
+      "id": 8,
+      "dir": "I",
+      "start": {
+        "x": 2,
+        "y": 0,
+        "z": 0
+      },
+      "answer": "LAUD",
+      "clue": "Mööbliese"
+    },
+    {
+      "id": 9,
+      "dir": "I",
+      "start": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "answer": "SAAR",
+      "clue": "Meres asuv maa"
+    }
+  ]
+}
